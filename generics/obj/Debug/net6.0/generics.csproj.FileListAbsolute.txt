@@ -1,0 +1,15 @@
+C:\Users\Seky-Vanier\source\repos\generics\bin\Debug\net6.0\generics.exe
+C:\Users\Seky-Vanier\source\repos\generics\bin\Debug\net6.0\generics.deps.json
+C:\Users\Seky-Vanier\source\repos\generics\bin\Debug\net6.0\generics.runtimeconfig.json
+C:\Users\Seky-Vanier\source\repos\generics\bin\Debug\net6.0\generics.dll
+C:\Users\Seky-Vanier\source\repos\generics\bin\Debug\net6.0\generics.pdb
+C:\Users\Seky-Vanier\source\repos\generics\obj\Debug\net6.0\generics.csproj.AssemblyReference.cache
+C:\Users\Seky-Vanier\source\repos\generics\obj\Debug\net6.0\generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seky-Vanier\source\repos\generics\obj\Debug\net6.0\generics.AssemblyInfoInputs.cache
+C:\Users\Seky-Vanier\source\repos\generics\obj\Debug\net6.0\generics.AssemblyInfo.cs
+C:\Users\Seky-Vanier\source\repos\generics\obj\Debug\net6.0\generics.csproj.CoreCompileInputs.cache
+C:\Users\Seky-Vanier\source\repos\generics\obj\Debug\net6.0\generics.dll
+C:\Users\Seky-Vanier\source\repos\generics\obj\Debug\net6.0\refint\generics.dll
+C:\Users\Seky-Vanier\source\repos\generics\obj\Debug\net6.0\generics.pdb
+C:\Users\Seky-Vanier\source\repos\generics\obj\Debug\net6.0\generics.genruntimeconfig.cache
+C:\Users\Seky-Vanier\source\repos\generics\obj\Debug\net6.0\ref\generics.dll
