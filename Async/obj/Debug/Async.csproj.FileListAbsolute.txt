@@ -1,0 +1,16 @@
+C:\Users\Seky-Vanier\source\repos\Async\bin\Debug\Async.exe.config
+C:\Users\Seky-Vanier\source\repos\Async\bin\Debug\Async.exe
+C:\Users\Seky-Vanier\source\repos\Async\bin\Debug\Async.pdb
+C:\Users\Seky-Vanier\source\repos\Async\obj\Debug\Async.csproj.AssemblyReference.cache
+C:\Users\Seky-Vanier\source\repos\Async\obj\Debug\Async.csproj.SuggestedBindingRedirects.cache
+C:\Users\Seky-Vanier\source\repos\Async\obj\Debug\MainWindow.g.cs
+C:\Users\Seky-Vanier\source\repos\Async\obj\Debug\App.g.cs
+C:\Users\Seky-Vanier\source\repos\Async\obj\Debug\Async_MarkupCompile.cache
+C:\Users\Seky-Vanier\source\repos\Async\obj\Debug\Async_MarkupCompile.lref
+C:\Users\Seky-Vanier\source\repos\Async\obj\Debug\MainWindow.baml
+C:\Users\Seky-Vanier\source\repos\Async\obj\Debug\Async.g.resources
+C:\Users\Seky-Vanier\source\repos\Async\obj\Debug\Async.Properties.Resources.resources
+C:\Users\Seky-Vanier\source\repos\Async\obj\Debug\Async.csproj.GenerateResource.cache
+C:\Users\Seky-Vanier\source\repos\Async\obj\Debug\Async.csproj.CoreCompileInputs.cache
+C:\Users\Seky-Vanier\source\repos\Async\obj\Debug\Async.exe
+C:\Users\Seky-Vanier\source\repos\Async\obj\Debug\Async.pdb
