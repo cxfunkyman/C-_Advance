@@ -1,0 +1,15 @@
+C:\Users\Seky-Vanier\source\repos\LinQ_new\bin\Debug\net6.0\LinQ_new.exe
+C:\Users\Seky-Vanier\source\repos\LinQ_new\bin\Debug\net6.0\LinQ_new.deps.json
+C:\Users\Seky-Vanier\source\repos\LinQ_new\bin\Debug\net6.0\LinQ_new.runtimeconfig.json
+C:\Users\Seky-Vanier\source\repos\LinQ_new\bin\Debug\net6.0\LinQ_new.dll
+C:\Users\Seky-Vanier\source\repos\LinQ_new\bin\Debug\net6.0\LinQ_new.pdb
+C:\Users\Seky-Vanier\source\repos\LinQ_new\obj\Debug\net6.0\LinQ_new.csproj.AssemblyReference.cache
+C:\Users\Seky-Vanier\source\repos\LinQ_new\obj\Debug\net6.0\LinQ_new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seky-Vanier\source\repos\LinQ_new\obj\Debug\net6.0\LinQ_new.AssemblyInfoInputs.cache
+C:\Users\Seky-Vanier\source\repos\LinQ_new\obj\Debug\net6.0\LinQ_new.AssemblyInfo.cs
+C:\Users\Seky-Vanier\source\repos\LinQ_new\obj\Debug\net6.0\LinQ_new.csproj.CoreCompileInputs.cache
+C:\Users\Seky-Vanier\source\repos\LinQ_new\obj\Debug\net6.0\LinQ_new.dll
+C:\Users\Seky-Vanier\source\repos\LinQ_new\obj\Debug\net6.0\refint\LinQ_new.dll
+C:\Users\Seky-Vanier\source\repos\LinQ_new\obj\Debug\net6.0\LinQ_new.pdb
+C:\Users\Seky-Vanier\source\repos\LinQ_new\obj\Debug\net6.0\LinQ_new.genruntimeconfig.cache
+C:\Users\Seky-Vanier\source\repos\LinQ_new\obj\Debug\net6.0\ref\LinQ_new.dll
